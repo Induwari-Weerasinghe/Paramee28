@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Paramee
-- 👀 I’m interested in Node.js
-- 🌱 I’m currently learning angualr.
+- 👀 I’m interested in Angular.
+- 🌱 I’m currently learning React.
+- I'm currently working on my first react project.
 
 <!---
 Paramee28/Paramee28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

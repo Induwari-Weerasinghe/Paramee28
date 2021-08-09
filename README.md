@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paramee
 - 👀 I’m interested in Angular.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React.js
 - I'm currently working on my first react project.
 
 <!---

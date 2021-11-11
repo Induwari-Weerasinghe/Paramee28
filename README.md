@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paramee
-- 👀 I’m interested in Angular.
+- 👀 I’m interested in JS.
 - 🌱 I’m currently learning React.js
 - I'm currently working on my first react project.
 
